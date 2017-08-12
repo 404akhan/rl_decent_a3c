@@ -1,0 +1,10 @@
+*~
+.DS_Store
+__pycache__
+*.pyc
+model-*
+nohup*
+*.log
+rest*.py
+*_log
+*.dat
